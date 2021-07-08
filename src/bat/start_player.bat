@@ -1,0 +1,1 @@
+start vlc -I null --play-and-exit "D:\EASY_COVER.xspf"
